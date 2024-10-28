@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRnMmVyeGQ0a3MxNDIyNXBjdXU1MXI4bjAxM2JqZGl5Y2IxOGJwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/AtemeKRsPRVESJ8zRq/giphy720p.mp4)]
+[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRnMmVyeGQ0a3MxNDIyNXBjdXU1MXI4bjAxM2JqZGl5Y2IxOGJwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/AtemeKRsPRVESJ8zRq/giphy720p.mp4)
 <h1 align="center">Hi 👋, I'm Krishna Sharma</h1>
 <h3 align="center">A passionate AI and ML developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
