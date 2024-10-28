@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning** and **Deep Learning Techniques**.
 
-- 💬 Ask me about **Python, TensorFlow, NLP, Computer Vision, and more**.
+- 💬 Ask me about **Python, TensorFlow, Computer Vision, and more**.
 
 - 📫 How to reach me: **krishnaps369@gmail.com**
 
