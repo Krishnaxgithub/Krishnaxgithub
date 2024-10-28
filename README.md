@@ -50,8 +50,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaxgithub&show_icons=true&theme=radical" alt="krishnaxgithub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaxgithub&theme=radical" alt="krishnaxgithub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnaxgithub&show_icons=true&theme=radical" alt="krishnaxgithub" height="200px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaxgithub&theme=radical" alt="krishnaxgithub" height="200px" />
 </p>
 
 <h3 align="left">Top Languages:</h3>
