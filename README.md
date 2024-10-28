@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krishna Sharma</h1>
 <h3 align="center">A passionate AI and ML developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/AtemeKRsPRVESJ8zRq.mp4">
+<div align="right">
+  <img src="https://i.giphy.com/AtemeKRsPRVESJ8zRq.gif" alt="MasterHead">
+</div>
 
 - 🌱 I’m currently learning **Machine Learning**
 
