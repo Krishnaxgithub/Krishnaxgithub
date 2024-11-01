@@ -10,7 +10,7 @@
 - 📫 How to reach me: **krishnaps369@gmail.com**
 - ⚡ Fun fact: **I find patterns in data like it’s a game of connect-the-dots!** 😉
 
-<hr>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<hr>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -49,26 +49,23 @@
   </a>
 </p>
 
-<hr>
+<br>
 
 <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
 <div align="center">
   <img width="48%" src="https://streak-stats.demolab.com/?user=krishnaxgithub&count_private=true&theme=react&border_radius=10" alt="streak stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnaxgithub&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
 </div>
 
-<hr>
+<br>
 
 <h2 align="center">Top Languages</h2>
-<br>
 <div align="center">
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaxgithub&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
-<hr>
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Krishnaxgithub/grid_snake/main/grid_snake.svg" alt="Grid Snake" width="700" />
 </p>
-<br>
