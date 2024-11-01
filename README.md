@@ -6,12 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaxgithub&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaxgithub" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning** and **Deep Learning Techniques**.
-
 - 💬 Ask me about **Python, TensorFlow, Computer Vision, and more**.
-
 - 📫 How to reach me: **krishnaps369@gmail.com**
-
 - ⚡ Fun fact: **I find patterns in data like it’s a game of connect-the-dots!** 😉
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +24,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishnaxkaggle" height="30" width="40" />
   </a>
 </p>
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -48,6 +49,8 @@
   </a>
 </p>
 
+<hr>
+
 <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align="center">
@@ -55,17 +58,17 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnaxgithub&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
 </div>
 
-<br/><br/>
+<hr>
 
 <h2 align="center">Top Languages</h2>
 <br>
 <div align="center">
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaxgithub&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
-<br/><br/>
 
-<br><br><br><br>
+<hr>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Krishnaxgithub/grid_snake/main/grid_snake.svg" alt="Grid Snake" width="700" />
 </p>
-<br><br>
+<br>
