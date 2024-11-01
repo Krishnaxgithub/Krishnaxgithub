@@ -66,7 +66,7 @@
 
 <br>
 
-<hr style="border: none; border-top: 1px solid #000; width: 80%; margin: 0 auto; height: 1px;">
+<hr style="border: none; border-top: 1px solid rgba(0, 0, 0, 0.2); width: 80%; margin: 0 auto;">
 <p align="center">
   <img src="https://raw.githubusercontent.com/Krishnaxgithub/grid_snake/main/grid_snake.svg" alt="Grid Snake" width="700" />
 </p>
