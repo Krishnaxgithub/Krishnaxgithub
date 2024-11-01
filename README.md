@@ -66,5 +66,5 @@
 
 <h2 align="center">Grid Snake</h2>
 <p align="center">
-  <img src="(https://raw.githubusercontent.com/Krishnaxgithub/grid_snake/refs/heads/main/grid_snake.svg)" alt="Grid Snake" width="200" />
+  <img src="https://raw.githubusercontent.com/Krishnaxgithub/grid_snake/main/grid_snake.svg" alt="Grid Snake" width="200" />
 </p>
