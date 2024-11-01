@@ -67,7 +67,7 @@
 
 <br>
 <br>
-<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Krishnaxgithub/grid_snake/main/grid_snake.svg" alt="Grid Snake" width="700" />
 </p>
+<br/><br/>
