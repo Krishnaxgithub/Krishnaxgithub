@@ -66,15 +66,7 @@
 
 <h2 align="center">Grid Snake</h2>
 <p align="center">
-  <svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <rect x="10" y="10" width="20" height="20" fill="#dcdc" />
-    <rect x="40" y="10" width="20" height="20" fill="#dcdc" />
-    <rect x="70" y="10" width="20" height="20" fill="#dcdc" />
-    <rect x="10" y="40" width="20" height="20" fill="#dcdc" />
-    <rect x="40" y="40" width="20" height="20" fill="#dcdc" />
-    <rect x="70" y="40" width="20" height="20" fill="#dcdc" />
-    <circle cx="10" cy="10" r="4" fill="#34998d" />
-    <animate attributeName="cx" values="10;40;70;10" dur="2s" repeatCount="indefinite" />
-    <animate attributeName="cy" values="10;10;10;10" dur="2s" repeatCount="indefinite" />
-  </svg>
+  <img src="https://raw.githubusercontent.com/Krishnaxgithub/my-svg-images/main/grid_snake.svg" alt="Grid Snake" width="200" />
+</p>
+
 </p>
