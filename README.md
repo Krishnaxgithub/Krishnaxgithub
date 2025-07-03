@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning** and **Deep Learning Techniques**.
 - 💬 Ask me about **Python, TensorFlow, Computer Vision, and more**.
-- 📫 How to reach me: **krishnaps369@gmail.com**
+- 📫 How to reach me: **krishnaxinbox@gmail.com**
 - ⚡ Fun fact: **I find patterns in data like it’s a game of connect-the-dots!** 😉
 
 <br>
@@ -66,7 +66,4 @@
 
 <br>
 
-<hr style="border: none; border-top: 0.5px solid rgba(0, 0, 0, 0.1); width: 80%; margin: 0 auto;">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Krishnaxgithub/grid_snake/refs/heads/main/grid_snake.svg" alt="Grid Snake" width="700" />
-</p>
+
