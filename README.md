@@ -61,7 +61,7 @@
 
 <h2 align="center">Top Languages</h2>
 <div align="center">
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaxgithub&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaxgithub&show_icons=true&locale=en&layout=compact&theme=react&border_radius=9" alt="Top Languages" />
 </div>
 
 <br>
