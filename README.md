@@ -96,19 +96,22 @@
 
 <br>
 
-<h2 align="center">⚡ Current Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-<div align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Krishnaxgithub&theme=react&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Krishnaxgithub&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-</div>
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Krishnaxgithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaxgithub&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <br>
 
 <h2 align="center">💻 Most Used Languages</h2>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaxgithub&layout=compact&theme=react&border_radius=10" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaxgithub&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
 <br>
