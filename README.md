@@ -76,12 +76,7 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krishnaxgithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krishnaxgithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krishnaxgithub&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<h2 align="center">💻 Most Used Languages</h2>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krishnaxgithub&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
